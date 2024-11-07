@@ -1,0 +1,8 @@
+streamlit==1.40.0  # Latest stable version
+google-generativeai==0.8.3  # Consider checking latest compatible version
+pandas  # Latest stable version
+hashlib  # Matches Python 3.x versions
+sqlite3  # Matches Python 3.x versions
+pathlib # Matches Python 3.x versions
+datetime  # Matches Python 3.x versions
+plotly  # Includes both plotly.express and plotly.graph_objects
