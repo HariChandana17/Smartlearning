@@ -4,3 +4,4 @@ pandas  # Latest stable version
 pathlib # Matches Python 3.x versions
 datetime  # Matches Python 3.x versions
 plotly  # Includes both plotly.express and plotly.graph_objects
+python-dotenv
